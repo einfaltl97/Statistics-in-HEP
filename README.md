@@ -7,3 +7,9 @@ In the beginning I created this Jupyter notebook for my own usage, by working th
 This is a **preliminar** version of the notebook and there are for sure some mistakes in it! I am very happy if these are reported! I will keep on working on the notebook to include all the concepts I have used in my thesis and get everything in order.
 
 Please note, that rerunning the notebook leads to different results in the calculations which are based on random variables and the results one gets might thus not be the same as those written in the text.
+
+The notes are based on:
+1. *Statistical Data Analysis*; Glen Cowan; Clarendon Press, 1998
+2. *Asymptotic formulae for likelihood-based tests of new physics*; Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells; Eur. Phys. J. C (2011) 
+3. *Exploring light mediators with low-threshold direct detection experiments*; Felix Kahlhoefer, Suchita Kulkarni and Sebastian Wild
+4. *Lectures on Statistics in Theory - Prelude to Statistics in Practice*; Robert D. Cousins; University of California, Los Angeles, 2014
